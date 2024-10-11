@@ -7,13 +7,6 @@ This project implements a ping-pong game using two FastAPI servers that send "pi
 - [Project Overview](#project-overview)
 - [Architecture](#architecture)
 - [Requirements](#requirements)
-- [Installation](#installation)
-- [Running the Servers](#running-the-servers)
-- [Usage](#usage)
-- [CLI Commands](#cli-commands)
-- [Pushing to GitHub](#pushing-to-github)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
 
 ## Project Overview
 
@@ -34,10 +27,3 @@ This project simulates a ping-pong game between two servers using HTTP requests.
 - FastAPI
 - Uvicorn
 - Requests (for sending HTTP requests)
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/suriyabadrinath/pingpongdataloop.git
-   cd pingpongdataloop
